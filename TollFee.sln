@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TollFee.Api", "TollFee.Api\TollFee.Api.csproj", "{83D672D5-489B-4454-9CEF-267871FF60F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TollFeeTest", "TollFeeTest\TollFeeTest.csproj", "{D1C7CD38-9608-4469-9904-564DF7510EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D672D5-489B-4454-9CEF-267871FF60F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D672D5-489B-4454-9CEF-267871FF60F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D672D5-489B-4454-9CEF-267871FF60F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D672D5-489B-4454-9CEF-267871FF60F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C7CD38-9608-4469-9904-564DF7510EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C7CD38-9608-4469-9904-564DF7510EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C7CD38-9608-4469-9904-564DF7510EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C7CD38-9608-4469-9904-564DF7510EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625E9302-D3E6-4A82-BB7B-9CE030BAF81C}
+	EndGlobalSection
+EndGlobal
